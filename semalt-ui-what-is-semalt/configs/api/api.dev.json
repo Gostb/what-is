@@ -1,0 +1,7 @@
+{
+  "sidebar": "/api/v1/get/menuitem/left-sidebar",
+  "header": "/api/v1/get/menuitem/header",
+  "footer": "/api/v1/get/menuitem/footer",
+  "locale": "/api/v1/get/localization",
+  "langs": "/api/v1/get/localization/langs"
+}

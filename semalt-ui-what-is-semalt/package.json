@@ -1,0 +1,9 @@
+{
+  "name": "semalt-ui-what-is-semalt",
+  "version": "1.0.0",
+  "license": "MIT",
+  "author": "starenchenkossh",
+  "dependencies": {
+    "@semalt/template": "git+https://git.semalt.com/semalt/semalt-snuxt.git"
+  }
+}
